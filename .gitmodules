@@ -1,0 +1,18 @@
+[submodule "nginx_upstream_check_module"]
+	path = nginx_upstream_check_module
+	url = git@github.com:yaoweibin/nginx_upstream_check_module.git
+[submodule "ngx_devel_kit"]
+	path = ngx_devel_kit
+	url = git@github.com:simpl/ngx_devel_kit.git
+[submodule "LuaJIT"]
+	path = LuaJIT
+	url = git@github.com:LuaJIT/LuaJIT.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:nginx/nginx.git
+[submodule "lua-nginx-module"]
+	path = lua-nginx-module
+	url = git@github.com:openresty/lua-nginx-module.git
+[submodule "lua-cjson"]
+	path = lua-cjson
+	url = git@github.com:mpx/lua-cjson.git
